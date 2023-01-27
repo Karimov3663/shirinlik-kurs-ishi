@@ -1,0 +1,42 @@
+.Canteiner{
+    width: 100%;
+    height: 200px;
+    background-color: rgb(2, 3, 27);
+    display: block;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    color: white;
+
+}
+.link{
+    display: flex;
+    justify-content: center; 
+    gap: 120px;
+    margin-top: 50px;
+    
+}
+.text{
+    text-decoration: none;
+    color: white;
+    font-size: 40px;
+    width: 200px;
+    border-radius: 4px;
+    border: 1px;
+    background-color: rgb(2, 3, 27);
+    cursor: pointer;
+}
+.text:hover{
+    font-size: 45px;
+    transition: 0.5s;
+}
+.text:active{
+    color: aqua;
+}
+.home{
+    color: white;
+    text-decoration: none;
+    font-size: 40px;
+    margin-top: 20px;
+}

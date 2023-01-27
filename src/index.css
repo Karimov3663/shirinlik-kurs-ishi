@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.Canteiner{
+  z-index: 999;
+}
+img{
+  width: 100%;
+  opacity: 1;
+}
+.Rot{
+  position: relative;
+  bottom: 765px;
+  z-index: 999;
+}
